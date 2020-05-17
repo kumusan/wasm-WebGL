@@ -18,6 +18,9 @@
   ],
   "author": "Ashley Williams <ashley666ashley@gmail.com>",
   "license": "(MIT OR Apache-2.0)",
+  "dependencies": {
+    "test-p": "file:../pkg"
+  },
   "devDependencies": {
     "hello-wasm-pack": "^0.1.0",
     "webpack": "^4.29.3",
